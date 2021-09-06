@@ -1,4 +1,4 @@
-#Comparing JSON documents in Java with JSON-P
+# Comparing JSON documents in Java with JSON-P
 
 ## JSON Patch
 [JSON Patch](https://tools.ietf.org/html/rfc6902) is a format for expressing a sequence of operations to be applied to a JSON document. It is defined in the RFC 6902 and is identified by the _application/json-patch+json_ media type.
